@@ -1,0 +1,9 @@
+.box{
+    background: linear-gradient(rgb(26, 24, 24),rgba(98, 79, 26, 0.5));
+    text-align: center;
+    padding: 10px;   
+    color: white;
+}
+.col{
+    padding: 10px;
+}
